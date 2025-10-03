@@ -2,7 +2,7 @@ import Search from "../Search/Search";
 
 import "./Pokedex.css"
 import PokemonList from "./PokemonList/PokemonList";
-import React from "react";
+
 
 function Pokedex() {
 return (
